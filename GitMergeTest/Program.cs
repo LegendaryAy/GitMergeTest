@@ -8,6 +8,7 @@ namespace GitMergeTest
         {
             Console.WriteLine("This is my first statement");
             Console.WriteLine("This is my second statement but first from test branch");
+            Console.WriteLine("Second statement from master");
         }
     }
 }
